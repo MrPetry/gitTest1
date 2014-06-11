@@ -1,4 +1,4 @@
 gitTest1
 ========
 
-First real experience with GitHub
+First real experience with GitHub for windows
